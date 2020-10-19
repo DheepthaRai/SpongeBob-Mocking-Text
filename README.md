@@ -1,1 +1,1 @@
-SpongeBob mocking text (spongemock) is a style of writing in which the alphabets are randomly written in upper and lower case. It is used in internet communities to mock something. The text originated as a meme from the SpongeBob cartoon series.
+A python code to generate 'SpongeBob mocking text' (spongemock), which is a writing style used by internet communities to mock something, by randomly casing the letters of any sentence.
